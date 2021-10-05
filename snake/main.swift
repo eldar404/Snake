@@ -9,5 +9,3 @@ import Foundation
 
 print("Hello, World!")
 
-dsa hiuduisad
-dsanjkdsajk
